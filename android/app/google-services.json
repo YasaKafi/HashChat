@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348915315073",
+    "project_id": "hashchat-13789",
+    "storage_bucket": "hashchat-13789.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348915315073:android:1285fdb5e379602b12b880",
+        "android_client_info": {
+          "package_name": "com.example.hash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuNMvpwVxbN28avE6E8pKRcSApbACByVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

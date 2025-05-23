@@ -1,0 +1,2 @@
+/Users/macbook/Documents/Development/Flutter Project/hash_chat/android/app/.cxx/RelWithDebInfo/j2n6c6o6/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/macbook/Documents/Development/Flutter Project/hash_chat/android/app/.cxx/RelWithDebInfo/j2n6c6o6/arm64-v8a/CMakeFiles/rebuild_cache.dir
